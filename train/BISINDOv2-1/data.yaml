@@ -1,0 +1,47 @@
+names:
+- A
+- Apa
+- B
+- C
+- D
+- E
+- F
+- G
+- H
+- Halo
+- I
+- ILoveYou
+- J
+- K
+- Kamu
+- L
+- M
+- Malam
+- N
+- Nama
+- O
+- P
+- Pagi
+- Q
+- R
+- S
+- Saya
+- Selamat-Terimakasih
+- Siapa
+- T
+- U
+- V
+- W
+- X
+- Y
+- Z
+nc: 36
+roboflow:
+  license: CC BY 4.0
+  project: bisindov2
+  url: https://universe.roboflow.com/bisindo-qndjb/bisindov2/dataset/1
+  version: 1
+  workspace: bisindo-qndjb
+test: ../test/images
+train: BISINDOv2-1/train/images
+val: BISINDOv2-1/valid/images
